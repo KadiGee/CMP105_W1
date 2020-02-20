@@ -18,7 +18,7 @@ Level::Level(sf::RenderWindow* hwnd)
 	rect3.setPosition(120, 120);
 	rect3.setFillColor(sf::Color::Blue);
 
-	rect4.setSize(sf::Vector2f(10, 10));
+	rect4.setSize(sf::Vector2f(75, 75));
 	rect4.setPosition(120, 120);
 	rect4.setFillColor(sf::Color::Blue);
 
